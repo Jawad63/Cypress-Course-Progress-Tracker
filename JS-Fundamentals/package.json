@@ -8,13 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "type": "module",
-
-  "dependencies": {
-
-  },
-
-  "devDependencies": {
-    
-  }
+  "type": "module"
 }
